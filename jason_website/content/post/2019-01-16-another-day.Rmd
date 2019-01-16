@@ -1,0 +1,14 @@
+---
+title: Another day
+author: Jason Tang
+date: '2019-01-16'
+slug: another-day
+categories:
+  - r
+tags:
+  - thoughts
+---
+
+This is another wonderful day I guess for this website to either work or not work. 
+
+We'll see what actually happens. 

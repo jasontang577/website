@@ -1,0 +1,70 @@
+---
+title: First Post
+author: Jason Tang
+date: '2019-01-15'
+slug: first-post
+categories:
+  - R
+tags:
+  - start
+---
+
+This is the first post on my website. I'll be exploring R on this website for the most part and perhaps also show some stuff in my life.
+
+## My path to R 
+
+I did a Masters of Public Health at UC Davis from 2017-2018. 
+
+My peers and I all had to learn SAS for our biostatistics courses. Using SAS, we could manipulate the data and then run some statistical tests and analyses. 
+
+It was our first introduction to SAS and things were tricky due to our lack of programming or statistical background. 
+
+I also then learned and used some Stata for another class. 
+
+But after I graduated from my MPH program, I no longer had access to neither SAS or Stata because they are both proprietry software. 
+
+## Enter R. It's free!
+
+Throughout my MPH, I had heard of this R. My classmate, Zach, had used it for his Nutrition Masters Program and had stated his preference for R over SAS. "SAS is stupid!"
+
+But only when I really had R as the only option did I use it. 
+
+## Beginning of R
+
+I used R to analyze survey data at Knights Landing. Manipulating the data was the hard part before some simple statistical analyses such as ANOVA or t-tests. 
+
+The process of learning R can be tricky and was much different from SAS. 
+
+R is an open-source language and it definitely can be positive or negative. 
+
+#### Thoughts about R
+1. Multiple Methods
+1. Additional Features: Blogging, Notebooks and etc. 
+
+### Multiple Methods
+There are several methods to do the same thing. For example manipulating data, you can use base R, dplyr or data.table. 
+For graphing, you can use base R or ggplot2. 
+
+The options you can use are so common. 
+
+But I'd also have to say. Use stackexchange. It's so useful.
+
+### Additional Features: Blogging, Notebooks and etc. 
+
+There are several awesome packages with other functionality.
+
+R markdown is a great interactive document. So useful.
+
+`blogdown` allows for building websites. 
+
+## Other Notes
+
+Also some R authors or people should be followed especially Hadley and Yihui Xie. They both authored some great packages and have documented them with thorough instructions and tips. 
+
+## Join R (Jobs / Hobbies / Fun Stuff)
+
+After learning R, I actually really enjoy using it. 
+
+It will be useful for getting a job (it's been helpful). 
+
+It can built interactive documents and analyze things. 

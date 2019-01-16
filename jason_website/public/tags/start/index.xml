@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Start on A Hugo website</title>
+    <link>/tags/start/</link>
+    <description>Recent content in Start on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/start/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>/2019/01/15/first-post/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/15/first-post/</guid>
+      <description>This is the first post on my website. I’ll be exploring R on this website for the most part and perhaps also show some stuff in my life.
+My path to RI did a Masters of Public Health at UC Davis from 2017-2018.
+My peers and I all had to learn SAS for our biostatistics courses. Using SAS, we could manipulate the data and then run some statistical tests and analyses.</description>
+    </item>
+    
+  </channel>
+</rss>
